@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Syfy East
+http://fl2.moveonjoy.com/SYFY/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Syfy East
+https://fl1.moveonjoy.com/SYFY/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Undefined",Syfy East
+https://fl3.moveonjoy.com/SYFY/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FXX East (720p)
+http://fl2.moveonjoy.com/FXX/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FXX East (720p)
+https://tvpass.org/live/FXXEast/hd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="Entertainment",FXX East
+https://fl3.moveonjoy.com/FXX/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FXX East
+https://fl1.moveonjoy.com/FXX/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/l0RGbRI.png" group-title="Entertainment",TNT International
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Fox (1080p)
+http://109.233.89.166/FOX_HD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Fox Comedy (1080p)
+http://178.219.128.68:64889/FOXCOMEHD?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fox (720p)
+https://fl1.moveonjoy.com/FOX/index.m3u8?checkedby:iptvcat.com
