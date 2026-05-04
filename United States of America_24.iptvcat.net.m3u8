@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz East (1080p)
+https://tvpass.org/live/StarzEast/hd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz East (360p)
+https://tvpass.org/live/StarzEast/sd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Edge East
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Action East
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/L6GjoS4.png" group-title="Classic",Starz Encore Classic East
+https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Classic East
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore East
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Undefined",Starz West
+https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz West
+https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",StashTV Black Stories (720p) [Geo-blocked]
+https://amg01720-amg01720c1-klowdtv-us-4664.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvblackstories-klowdtvus/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",StashTV Crime Time (720p) [Geo-blocked]
+https://amg01720-amg01720c3-klowdtv-us-4665.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvcrimetime-klowdtvus/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",StashTV The Classics (720p) [Geo-blocked]
+https://amg01720-amg01720c2-klowdtv-us-4689.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvtheclassics-klowdtvus/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Stingray Greatest Holiday Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Stories by AMC
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845&serverSideAds=false&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment;Undefined",Stories by AMC
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Stories by AMC (1080p)
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="Undefined",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/rKkHhkX.png" group-title="Music",Stryk TV (1080p)
+https://fffffff110156200.tvustream.com:8298/ryfy.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Such TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCyNUtOyKbLZaOgy3rhe_3lQ.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png" group-title="Movies",Sundance TV East
+https://fl3.moveonjoy.com/SUNDANCE/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Sundance TV East
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SundanceTV East (720p)
+https://fl5.moveonjoy.com/SUNDANCE/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SundanceTV East (720p)
+https://fl2.moveonjoy.com/SUNDANCE/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Super Channel Hearties Canada (720p)
+https://livetv-fa.tubi.video/super-channel-hearties-canada/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Super Channel Uncovered Canada (720p)
+https://livetv-fa.tubi.video/super-channel-uncovered-canada/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Super Simple Songs (1080p)
+https://app.viloud.tv/hls/channel/fb6891b829df2ea6dd6968b506a8c393.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Supermarket Sweep
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649ddbfb6f29ec000874ca9e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ad3c172a-bf6a-40fb-9cea-365b1ae9a63e&serverSideAds=false&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Supermarket Sweep
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649ddbfb6f29ec000874ca9e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ad3c172a-bf6a-40fb-9cea-365b1ae9a63e&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Supermarket Sweep (1080p)
+https://lnc-supermarket.tubi.video/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Supermarket Sweep (1080p) [Geo-blocked]
+https://livetv-fa.tubi.video/supermarket/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Supermarket Sweep (1080p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/4541ec70-497a-4a92-87cf-50258fbab999/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Supermarket Sweep (1080p) [Geo-blocked]
+https://amg00145-buzzr-bigballs-supermarket-rokuus-iqx8g.amagi.tv/playlist/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Supermarket Sweep [Geo-blocked]
+https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Supernatural Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=933590b4-25e8-478c-814f-49d93fd452c3&serverSideAds=false&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Supernatural Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=933590b4-25e8-478c-814f-49d93fd452c3&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Survivor
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d8ecd073-183e-48e4-a98b-a1be120de05a&serverSideAds=false&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Survivor
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d8ecd073-183e-48e4-a98b-a1be120de05a&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Swerve Combat (1080p)
+https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Undefined",Syfy East
+https://fl3.moveonjoy.com/SYFY/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Syfy East
+http://fl2.moveonjoy.com/SYFY/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Syfy East
+https://fl1.moveonjoy.com/SYFY/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Séptimo arte
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8987-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1202ea23-d955-4016-bac1-563ea6638683&serverSideAds=false&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/GAIFeP2.png" group-title="Undefined",Séptimo arte
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8987-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1202ea23-d955-4016-bac1-563ea6638683&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",T2 Tennis Channel (1080p)
+https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBC 1 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCEz71zXmApKBYiH1fReemeA.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/512px-TBD_Logo_2019.svg.png" group-title="Entertainment",TBD (1080p)
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBN
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a3bb369c-6039-4656-a79d-8e87112a8232&serverSideAds=false&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBN
+https://live20.bozztv.com/dvrfl03/hdirect/hdirect-tbn/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBN
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a3bb369c-6039-4656-a79d-8e87112a8232&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/U5XsT3j.png" group-title="Undefined",TBN Armenia
+https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/yWJTxKk.png" group-title="Undefined",TBN Pacific
+https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/J5iRMgi.png" group-title="Undefined",TCT Network (720p)
+https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/live2/tct_720p/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLN Media Chicago
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/cb165faa-41c9-42ad-83ee-ad5ca9fb927c.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLN Media San Francisco
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TMZ (720p)
+https://livetv-fa.tubi.video/tmz/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TMZ (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziotmz/CDN/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNA Wrestling
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=596b4a39-235b-4286-a850-487ab239028b&serverSideAds=false&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNA Wrestling
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=596b4a39-235b-4286-a850-487ab239028b&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNA Wrestling (1080p)
+https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/l0RGbRI.png" group-title="Entertainment",TNT International
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TODAY All Day
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4b9a9385-79d0-48ba-8524-7334c82add93&serverSideAds=false&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News;Undefined",TODAY All Day
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b9a9385-79d0-48ba-8524-7334c82add93&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TOTALLY TURTLES
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3441abd1-12dc-4351-b79d-3b4eb58dc339&serverSideAds=false&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TOTALLY TURTLES
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3441abd1-12dc-4351-b79d-3b4eb58dc339&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TRACE Latina (1080p)
+https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",TRACE Sportstar (1080p)
+https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TRACE UK (1080p)
+https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TRACE Urban (1080p)
+https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TSN1 (1080p)
+https://tvpass.org/live/tsn1/hd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TSN1 (360p)
+https://tvpass.org/live/tsn1/sd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TSN2 (1080p)
+https://tvpass.org/live/tsn2/hd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TSN2 (360p)
+https://tvpass.org/live/tsn2/sd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TSN3 (1080p)
+https://tvpass.org/live/tsn3/hd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TSN3 (360p)
+https://tvpass.org/live/tsn3/sd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TSN4 (360p)
+https://tvpass.org/live/tsn4/sd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TSN4 (720p)
+https://tvpass.org/live/tsn4/hd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TSN5 (1080p)
+https://tvpass.org/live/tsn5/hd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TSN5 (360p)
+https://tvpass.org/live/tsn5/sd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TSTV (720p)
+https://reflector.watchtstv.com/hls/livestream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TUDN
+https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TUDN
+https://dvrfl03.bozztv.com/hondu-canal12/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TUDN (1080p)
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=NVQrq6a3oZfdBzkefWT1rvdRCoj9XOyx&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJOVlFycTZhM29aZmRCemtlZldUMXJ2ZFJDb2o5WE95eCIsImV4cCI6MTY1NjE5ODE4NSwiYWRfcGFycyI6eyJkZnAiOnsiaXVfdmFsdWVfZnJvbV9wYWdlIjoiL3VuZGVmaW5lZC9yZC51bml2aXNpb25fdmlkZW9fZGVwb3J0ZXMvZGFpIiwidXJsIjoiaHR0cHM6Ly93d3cudHVkbi5jb20vdHVkbi1saXZlc3RyZWFtLTI0LTciLCJwbGF5ZXJfd2lkdGgiOiI3NTMiLCJwbGF5ZXJfaGVpZ2h0IjoiNDI0IiwicHAiOiJEZXNrdG9wQml0UmF0ZXMiLCJtdnBkIjoidGVtcF9wYXNzIn19LCJ2aWQiOiJhZHN0a1pqME52S3F6QjZlIiwidXNlcl9wYXJzIjp7InByZWZlcnJlZF9jZG4iOnsibmFtZSI6ImFrYW1haSIsImZvcmNlIjp0cnVlfX19.Y9JMF-b_SUsCZ3WMkjU1cmNkiHvT7lmvYLsVbCx-Dhg&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TUDN [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TUDN [Geo-blocked]
+https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=test_token&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TUDN [Geo-blocked]
+https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/At0BPeA.png" group-title="Education",TUTV
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV 10 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC-hfYFkXZ6sTmI-BrW1fPAQ.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV 41
+http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/chunklist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Asamblea Legislativa (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Asia (1080p)
+https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Bratislava (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCoLgBFFbzGgYJpmcdV0GT4w.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Carmona (360p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRniQmtUlHJedl36F0Mehvw.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Cartago Digital
+https://ssh101-fl.bozztv.com/ssh101/tvcdstreaming/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Correio (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Cámara (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRVeQhiqhUAxRRUod7F-K3A.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Hronka (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCdsKjmExW-0pFskKYbjNIQg.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Land
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Land Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5e762bb7-572b-4470-87fd-b3b4bb48462e&serverSideAds=false&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Land Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/612fea0e970e6f00083be56b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4e19f6b-db29-4ec0-8858-e4fd87f40056&serverSideAds=false&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Land Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/612fea0e970e6f00083be56b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4e19f6b-db29-4ec0-8858-e4fd87f40056&checkedby:iptvcat.net
